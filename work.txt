@@ -1,0 +1,38 @@
+1.create react app "npx create-react-app client"
+  - cd client
+  - npm start
+  - open http://localhost:3000 in your browser to render the react app
+
+2. created a folder called component
+  - inside component created Editor.jsx
+  - then render the content of thhe Editor.jsx file from app.js
+  - npm start to see the changes in the browser
+
+3. Installation of "Quilljs.com"
+  - This repository is designed to serve as an informational medium for anyone learning to use the rich text editor Quill JS.
+  - npm install quill
+
+4. Installation of mateerialui
+  - Material UI is an open-source React component library that implements Google's Material Design. It's comprehensive and can be used in production out of the box.
+  - npm install @mui/material @emotion/react @emotion/styled
+
+5. import in editor.jsx
+   import Quill from 'quill';
+   import 'quill/dist/quill.snow.css';
+   import {Box} from '@mui/material';
+
+6. then initialization by using useeffect
+
+server
+- to connect the database
+-create folder server
+-cd server
+-npm init to get empty package.json 
+-for real time editing we install npm i socket.import
+
+so we have install socket in server site now we have to to instal that in clinet site 
+- npm i socket.io-client bcox we are sharing real time data so we have to connect socket in both server and client 
+
+install nodemon so that we dont have to restart server again and again
+npm i nodemon   -in cd server
+
