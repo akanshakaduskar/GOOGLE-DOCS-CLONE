@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Google Docs Clone - README</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px;">
 
   <h1>📝 Google Docs Clone</h1>
   <p>A real-time collaborative document editor built using <strong>React.js</strong>, <strong>Material-UI</strong>, <strong>Socket.io</strong>, and <strong>MongoDB</strong> — inspired by Google Docs.</p>
@@ -66,11 +59,8 @@ npm start
 
   <p>Visit <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> in your browser to see it in action.</p>
 
-  <h2>📸 Screenshots</h2>
-  <p><!-- Add image tags here if you have screenshots --></p>
+ 
 
   <h2>🤝 Contributing</h2>
   <p>Contributions, issues, and feature requests are welcome!</p>
 
-</body>
-</html>
