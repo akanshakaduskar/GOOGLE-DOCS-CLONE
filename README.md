@@ -12,7 +12,7 @@
   <h2>🚀 Live Demo</h2>
   
 <p>🎥 Watch Demo</p>
-[React App (1).webm](https://github.com/user-attachments/assets/0921b200-a722-4d92-9cb1-47323b38ea63)
+(https://github.com/user-attachments/assets/0921b200-a722-4d92-9cb1-47323b38ea63)
 
   
   <h2>🛠️ Technologies Used</h2>
